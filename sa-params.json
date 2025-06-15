@@ -1,0 +1,13 @@
+{
+  "parameters": {
+    "storageAccountName": {
+      "value": "hellosa12"
+    },
+    "location": {
+      "value": "eastus"
+    },
+    "sku": {
+      "value": "Standard_LRS"
+    }
+  }
+}

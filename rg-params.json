@@ -1,0 +1,10 @@
+{
+  "parameters": {
+    "resourceGroupName": {
+      "value": "MyNewRGViaTemplate2"
+    },
+    "location": {
+      "value": "eastus"
+    }
+  }
+}
